@@ -1,0 +1,12 @@
+C:\Hshop program\Nhan vien\Bao\Hshop_Circuit\SHT3x_Absolute_Humidity
+
+- Tester: vthanh
+
+arduino     sht3x
+
+5V          5V
+GND         GND
+A4          DA
+A5          CL
+9600
+
